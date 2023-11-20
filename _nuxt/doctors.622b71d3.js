@@ -1,0 +1,1 @@
+import{_ as o}from"./doctors.4c9a7a9c.js";import{_ as c,c as e,b as n,o as s}from"./entry.d073ee5d.js";const r={components:{doctors:o}};function _(a,p,d,m,f,i){const t=o;return s(),e("div",null,[n(t)])}const x=c(r,[["render",_]]);export{x as default};
